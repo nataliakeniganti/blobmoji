@@ -6,5 +6,6 @@
 - @Madis0 - Many useful suggestions
 - @Maxr1998 - Dockerfile (original one)
 - @rileyinman - Parts of the design for Yawning Face
+- @Sayhone721 - several emoji updates
 - @Secret-chest - laptop emoji, updated buttons
 - @C1710
